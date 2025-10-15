@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese Learn App - Delete Account</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #dc3545;
+            border-bottom: 3px solid #dc3545;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #495057;
+            margin-top: 30px;
+        }
+        .warning {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-left: 4px solid #f39c12;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .steps {
+            background-color: #e8f4fd;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .contact-box {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 30px;
+            border: 2px solid #007bff;
+        }
+        .data-types {
+            background-color: #f1f3f4;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 5px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        ol li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗑️ Delete Your Chinese Learn App Account</h1>
+        
+        <div class="warning">
+            <strong>⚠️ Important:</strong> Deleting your account is permanent and cannot be undone. All your learning progress, scores, and account data will be permanently removed.
+        </div>
+
+        <h2>📋 How to Delete Your Account</h2>
+        
+        <div class="steps">
+            <h3>Follow these steps to request account deletion:</h3>
+            <ol>
+                <li><strong>Send us a deletion request</strong> using one of the methods below</li>
+                <li><strong>Include your account information:</strong>
+                    <ul>
+                        <li>Email address used to sign in</li>
+                        <li>Google account name (if you used Google Sign-In)</li>
+                        <li>Approximate date when you created the account</li>
+                    </ul>
+                </li>
+                <li><strong>Wait for confirmation:</strong> We'll process your request within 30 days</li>
+                <li><strong>Account deletion completed:</strong> You'll receive a confirmation email</li>
+            </ol>
+        </div>
+
+        <h2>📧 Contact Methods for Account Deletion</h2>
+        
+        <div class="contact-box">
+            <h3>🎯 Primary Method - Email Request</h3>
+            <p><strong>Send your deletion request to:</strong></p>
+            <p><strong>Email:</strong> <a href="mailto:csd2112.dev@gmail.com?subject=Delete My Chinese Learn App Account">csd2112.dev@gmail.com</a></p>
+            <p><strong>Subject:</strong> Delete My Chinese Learn App Account</p>
+            
+            <p><strong>Include in your email:</strong></p>
+            <ul>
+                <li>Your registered email address</li>
+                <li>Request for complete account deletion</li>
+                <li>Reason for deletion (optional)</li>
+            </ul>
+            
+            <a href="mailto:csd2112.dev@gmail.com?subject=Delete My Chinese Learn App Account&body=Hello,%0D%0A%0D%0AI would like to delete my Chinese Learn App account.%0D%0A%0D%0AAccount Email: [YOUR_EMAIL_HERE]%0D%0AGoogle Account: [YOUR_GOOGLE_ACCOUNT_HERE]%0D%0A%0D%0APlease confirm when the deletion is complete.%0D%0A%0D%0AThank you." class="btn">📧 Send Deletion Request Email</a>
+        </div>
+
+        <h2>🗂️ What Data Gets Deleted</h2>
+        
+        <div class="data-types">
+            <h3>✅ Data That Will Be Permanently Deleted:</h3>
+            <ul>
+                <li><strong>Account Information:</strong> Email address, username, profile data</li>
+                <li><strong>Learning Progress:</strong> All lesson completion, quiz scores, achievements</li>
+                <li><strong>Personal Preferences:</strong> App settings, language preferences</li>
+                <li><strong>Usage History:</strong> Learning statistics, session data</li>
+                <li><strong>Google Authentication:</strong> OAuth tokens and associated data</li>
+            </ul>
+            
+            <h3>📊 Data That May Be Retained (Anonymous):</h3>
+            <ul>
+                <li><strong>Analytics Data:</strong> Anonymous usage statistics (no personal identifiers)</li>
+                <li><strong>Crash Reports:</strong> Technical data for app improvement (anonymized)</li>
+                <li><strong>Legal Requirements:</strong> Data required by law (if any, anonymized)</li>
+            </ul>
+        </div>
+
+        <h2>⏱️ Processing Timeline</h2>
+        <ul>
+            <li><strong>Request Acknowledgment:</strong> Within 48 hours</li>
+            <li><strong>Data Deletion:</strong> Within 30 days of request</li>
+            <li><strong>Confirmation:</strong> Email confirmation when complete</li>
+        </ul>
+
+        <h2>🔄 Alternative - Account Deactivation</h2>
+        <p>If you're not sure about permanent deletion, you can also:</p>
+        <ul>
+            <li><strong>Sign out</strong> and stop using the app temporarily</li>
+            <li><strong>Clear app data</strong> from your device settings</li>
+            <li><strong>Uninstall the app</strong> (your cloud data remains for future use)</li>
+        </ul>
+
+        <h2>📞 Need Help?</h2>
+        <div class="contact-box">
+            <p>If you have questions about account deletion or need assistance:</p>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:csd2112.dev@gmail.com">csd2112.dev@gmail.com</a></li>
+                <li><strong>App:</strong> Chinese Learn App Support</li>
+                <li><strong>Response Time:</strong> Within 24-48 hours</li>
+            </ul>
+        </div>
+
+        <div class="warning">
+            <strong>🔒 Privacy Note:</strong> This account deletion process complies with GDPR, CCPA, and Google Play Store requirements. Your privacy and data rights are important to us.
+        </div>
+
+        <p><small><a href="https://github.com/csd2112-dev/TouristTravelChinese-Private-Policy/blob/main/privacy-policy.html">← Back to Privacy Policy</a></small></p>
+    </div>
+</body>
+</html>
